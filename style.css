@@ -914,9 +914,6 @@ footer{
             padding-right: 0;
     padding-left: 5px;
     }
-    .slider__item{
-        max-height: 62vh;
-    }
     .slider{
         left: auto;
     }
